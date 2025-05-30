@@ -8,7 +8,7 @@
  */
 
 const DB_HOST = 'evento.cvfdadg7dmyd.us-east-1.rds.amazonaws.com'; // Dirección del servidor de la base de datos
-const DB_NAME = 'eventos'; // Nombre de la base de datos
+const DB_NAME = 'eventos_php'; // Nombre de la base de datos
 const DB_PORT = '3306'; // Puerto de la base de datos
 const DB_USER = 'root'; // Usuario de la base de datos
 const DB_PASS = 'root1231'; // Contraseña de la base de datos
